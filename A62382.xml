@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal-pay and pay-master, or, The indigent-officers comfort delivered in a sermon preached before the honorable the military company at St. Pauls Covent-Garden, July 25th, by William Sclater ... ; and now printed at their earnest intreaty.</title>
+            <author>Sclater, William, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62382</idno>
+            <idno type="STC">Wing S921</idno>
+            <idno type="STC">ESTC R34026</idno>
+            <idno type="EEBO-CITATION">13661812</idno>
+            <idno type="OCLC">ocm 13661812</idno>
+            <idno type="VID">101121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal-pay and pay-master, or, The indigent-officers comfort delivered in a sermon preached before the honorable the military company at St. Pauls Covent-Garden, July 25th, by William Sclater ... ; and now printed at their earnest intreaty.</title>
+                  <author>Sclater, William, d. 1690.</author>
+               </titleStmt>
+               <extent>[8], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Rich. Hodgkinson, and are to be sold by E. Brewster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Great Britain --  Sermons.</term>
+               <term>Soldiers --  Great Britain --  Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101121:1"/>
+            <pb facs="tcp:101121:1" rendition="simple:additions"/>
+            <p>THE ROYAL-PAY, AND PAY-MASTER. OR THE Indigent-Officers Comfort.</p>
+            <p>Delivered in a SERMON Preached Before the Honorable the MILITARY COM<g ref="char:EOLhyphen"/>PANY at St. <hi>Pauls Covent-Garden, July</hi> 25<hi rend="sup">th</hi>
+            </p>
+            <p>BY WILLIAM SCLATER, D. D. Miniſter of St. <hi>James Clerkenwel.</hi>
+            </p>
+            <p>And now Printed at their earneſt intreaty.</p>
+            <q>
+               <hi>Tu ne cede malis, ſed contra audentior ito.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Rich. Hodgkinſon,</hi> and are to be ſold by E. <hi>Brewſter,</hi> at his Shop at the Sign of the Crane in St. <hi>Pauls</hi> Church-yard. 1671.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101121:2"/>
+            <pb facs="tcp:101121:2"/>
+            <head>To the Right Worſhipful
+<list>
+                  <item>Sir ROBERT PATON, PRESIDENT.</item>
+                  <item>Mr. JOHN CANNON,</item>
+                  <item>Mr. JOHN GARDINER,</item>
+                  <item>Mr. RICHARD COOPER,</item>
+                  <item>Mr. STEPHEN BURKS,</item>
+                  <item>Mr. EDMUND BRACE,</item>
+                  <item>Mr. ROBERT WHITE,</item>
+               </list> STEWARDS of the HONORABLE The Military Company.</head>
+            <head type="sub">And to the STEWARDS Elect,
+<list>
+                  <item>Capt. GRATIAN LINCH.</item>
+                  <item>Capt. JOHN PERRY.</item>
+                  <item>Capt. SAM. BOUGHEY.</item>
+                  <item>Lieut. GEORGE CLARK.</item>
+                  <item>Lieut. JOHN BADHAM.</item>
+                  <item>Lieut. THO. CURTISE.</item>
+               </list>
+            </head>
+            <opener>
+               <salute>Worthy GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Is not truly any ambition, that I have to be known in the world, (who have too much cauſe to wiſh my ſelf out of it) that occaſioneth the publication of this Diſcourſe: I pretty well know the for<g ref="char:EOLhyphen"/>tune of thoſe that dare appear in publike: but it was
+<pb facs="tcp:101121:3"/>your kind acceptance of this Sermon, when it was preached, and your earneſt deſire ſince, that I would let it come abroad; and here you ſee your Commands are obeyed; and ſo let it take its fortune, it cannot ſuffer much having ſo many valiant Champions to de<g ref="char:EOLhyphen"/>fend it.</p>
+            <p>The principal Subject that is commended to your practice, is the Noble Principle of Loyalty, and Fide<g ref="char:EOLhyphen"/>lity, that's our duty to the great Captain of our Sal<g ref="char:EOLhyphen"/>vation, whoſe Souldiers we are, and have taken our Oaths in our Swadling-clothes to be true, and faithful to him unto our lives end.</p>
+            <p>Treachery, and Falſhood, as well as Cowardize, is the higheſt Crime, that can be laid to a Souldiers charge.</p>
+            <p>To betray his Truſt, and run from his Colours, and take part with his Generals Enemies, is not to be ex<g ref="char:EOLhyphen"/>piated but by the death of the Traytor.</p>
+            <p>Therefore, Noble Souldiers, Conſider how many great things Chriſt your Captain, and General hath commit<g ref="char:EOLhyphen"/>ted to your charge.</p>
+            <p>He hath truſted you with an immortal Soul, which can never die with the Reprobate, nor periſh with the vertuous parts of mortal men, but muſt have a Being, ei<g ref="char:EOLhyphen"/>ther in Eternal Bliſs, or woe. Oh! do not betray this pre<g ref="char:EOLhyphen"/>cious Jewel into the hands of her deadly enemies. Ab<g ref="char:EOLhyphen"/>ſtain from thoſe fleſhly luſts that fight againſt her, and deliver her out of the hands of thoſe that gape for her
+<pb facs="tcp:101121:3"/>deſtruction. Be ſaithful unto her in preſerving her in the Love of God, and in obedience to his will; that when God ſhall call for her, you may deliver her up pure, and ſpotleſs into his merciful hands: And ſay with thy Great Captain, <hi>Father, into thine hands I commit my Spirit.</hi>
+            </p>
+            <p>He hath entruſted you with his Word, which is the beſt weapon in the world to defend you from your Ghoſt<g ref="char:EOLhyphen"/>ly Enemies. Do not let it lie and ruſt by you, as Swords, Halberts, Armor doth in Gentlemens Halls: But buc<g ref="char:EOLhyphen"/>kle it about you, and handle it luſtily. When you are tempted to Infidelity, to Drunkenneſs, to Whoredom, or the like, draw out thy weapon, and fight againſt them, it is written, <hi>Rev. 21.8.</hi> That <hi>the fearful, and unbelieving, the abominable, drunkards, murtherers, whoremongers, lyars ſhall have their part in the lake which burneth with fire and brimſtone.</hi> Hide his Word therefore in thine heart always, that thou may'ſt never ſin againſt God.</p>
+            <p>He hath intruſted you with his truth, and with a pure Religion. Oh! do not betray either of them; fight for Truth againſt Error. And ſtand for thy Religion to the death. Live as thou profeſſeſt to believe. No<g ref="char:EOLhyphen"/>thing will uphold dying, ſinking Religion, like a holy and a heavenly converſation. Practice is the beſt Syl<g ref="char:EOLhyphen"/>logiſm, and Argument we can uſe to prevail with o<g ref="char:EOLhyphen"/>thers; for he that lives a debauch'd, wicked life is an Apoſtate from the truth, and a Traytor to his Reli<g ref="char:EOLhyphen"/>gion; 'tis not a pin matter what ſide a wicked man takes, for he will bring a curſe where e'r he comes. Let
+<pb facs="tcp:101121:4"/>
+               <hi>your light then ſo ſhine before men, that they may ſee your good works,</hi> that the world may know that you are Loyal Subjects indeed, true Noble Royalliſts, not by your damning, and ſinking, not by your who<g ref="char:EOLhyphen"/>ring, and drinking, but by your temperance, chaſtity, ſoberneſs, and devotion; do not betray ſo good a Cauſe, and ſo holy a Religion, by your vicious lives and converſations. He is the faithfulleſt Subject to his King, and the trueſt friend to his Religion, and the greateſt lover of his Countrey that lives ſoberly, righ<g ref="char:EOLhyphen"/>teouſly, and Godly in this preſent world, Be not <hi>He<g ref="char:EOLhyphen"/>ctor'd</hi> neither out of the holy Principles of the Refor<g ref="char:EOLhyphen"/>med Profeſſion; ſome have changed ſides, on purpoſe to live more loſely, thinking that's the ſureſt Ha<g ref="char:EOLhyphen"/>ven to put into, where they may ſin, and yet be ſafe. Be not fool'd out of it neither for a ſong, for deli<g ref="char:EOLhyphen"/>cate Muſick, or raviſhing Voices, for fine ſhews, and pretty nacks; but ſtick faſt to the gravity and ſin<g ref="char:EOLhyphen"/>cerity of the Catholick Church of <hi>England,</hi> which is a moſt ſafe way unto ſalvation, and where you will ſure<g ref="char:EOLhyphen"/>ly find reſt unto your Souls.</p>
+            <p>And this Fidelity will cauſe the great Rewarder to look upon you, and to bleſs you, your pay ſhall be cer<g ref="char:EOLhyphen"/>tain, part in hand, and the reſt in reverſion; in being Faithful, and keeping his Commandments, there will he, and is great Reward; Vertue is a reward to its ſelf, and <hi>Godlineſs hath the promiſe of this life.</hi>
+            </p>
+            <p>And that which remains to be received, ſhall be ſure<g ref="char:EOLhyphen"/>ly paid you, he hath promiſed it, who <hi>is the Amen, the faithful and true witneſs,</hi> who <hi>is Yea, and Amen, God
+<pb facs="tcp:101121:4"/>bleſſed for evermore;</hi> To whoſe Gracious Protection I commit you, and am</p>
+            <closer>
+               <salute>Worthy Sirs,</salute>
+               <signed>Your Faithful Servant in Chriſt Jeſus. W. SCLATER.</signed>
+               <dateline>
+                  <hi>From my Houſe on</hi> Clerkenwel-Green, <date>Aug. <hi>17. 1671.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101121:5" rendition="simple:additions"/>
+            <pb facs="tcp:101121:5" rendition="simple:additions"/>
+            <head>THE ROYAL-PAY, AND PAY-MASTER.</head>
+            <head type="sub">OR THE Indigent-Officers Comfort.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Revel. 2. part of the 10<hi rend="sup">th</hi> verſe.</hi>
+                  </bibl>
+                  <p>Be thou faithful unto death, and I will give thee a Crown of life.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Ith what reluctancy and unwillingneſs I appear to day in this place, thoſe can beſt bear witneſs who preſſed me to this ſervice: not conſidering thoſe heavy afflictions I now lye under, (which wet my cheeks too often) nor yet how unfit a Man of peace (who ſeeks it, and purſues it, who loves it, and prayes for it, and fain would live in it) not conſidering, I ſay, how ill ſuch a perſon is qualified to make a Military Oration to expert Commanders, and valorous Souldiers.</p>
+            <pb n="2" facs="tcp:101121:6"/>
+            <p>And therefore ſeeing you have overborn me by your importunities; I hope you will accept the will for the deed, and chide your ſelves if you goe away diſappointed of your expectation: <hi>Verſa eſt in lu<g ref="char:EOLhyphen"/>ctum cythera mea &amp; organum meum in vocem flen<g ref="char:EOLhyphen"/>tium.</hi>
+            </p>
+            <p>The weapons of our warfare are not now car<g ref="char:EOLhyphen"/>nal, but ſpiritual; And though my ſelf amongſt o<g ref="char:EOLhyphen"/>thers might ſay with the Prophet <hi>Jeremy</hi> 4.19. <hi>My bowels, my bowels, I am pained at my very heart, my heart maketh a noiſe within me, becauſe O my ſoul thou haſt heard the ſound of the trumpet, and the ala<g ref="char:EOLhyphen"/>rum of war:</hi> (that fatal Civil War wherein the ſuf<g ref="char:EOLhyphen"/>ferings of loyal ſouls were infinite and unparallel'd; yet long ſince (God be thanked) we have beaten our Swords into Plow-ſhares, and our Spears into Pru<g ref="char:EOLhyphen"/>ning-hooks, and have been ſo long acquainted with the ſweets of peace, that we have almoſt forgotten even the terms of war.</p>
+            <p>And therefore (I preſume) it will not be expected from me, that I ſhould teach here, the Art of war; nor ſet you together by the ears (as many have done) with the Trumpet of my mouth. 'Tis not I hope ſo much as thought on, that I ſhould diſ<g ref="char:EOLhyphen"/>courſe of mounting of Guards, ſetting of Sentinels, drawing up of Men, ſending out of Parties, beating up of Quarters, placing of Ambuſhcadoes, keeping of Reſerves, ſecuring Retreats, or the like, &amp;c. No, you might then juſtly blame me for taking your Trade out of your hands, and medling with that, which more properly belongs to your ſelves: And therefore leaving theſe to your dextrous abilities, I
+<pb n="3" facs="tcp:101121:6"/>have but one onely Chriſtian Military Vertue at this time to commend unto you, neceſſary both for Soul<g ref="char:EOLhyphen"/>diers and Commanders; and that is Loyalty and Fidelity.</p>
+            <p>A Subject very fit to be diſcourſed in theſe ſlip<g ref="char:EOLhyphen"/>pery times, wherein many looſe ones run a gadding after the old <hi>Mumſimus,</hi> and others run a madding after their new <hi>Sumpſimus:</hi> very few (in compari<g ref="char:EOLhyphen"/>ſon) ſticking cloſe, and firm, to the true ancient Ca<g ref="char:EOLhyphen"/>tholick and Apoſtolick Truth taught and maintain<g ref="char:EOLhyphen"/>ed, and defended by the peaceable Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Others there are that ſcarce make a profeſſi<g ref="char:EOLhyphen"/>on of any Religion at all, but make a mock of ſin, and fleer at the auſterities of the Religious, think<g ref="char:EOLhyphen"/>ing it folly and cowardiſe to be vertuous and good, and that he is the moſt valorous perſon, who dares ſin the moſt, and ſtorm Heaven it ſelf with their ac<g ref="char:EOLhyphen"/>curſed oathes and imprecations.</p>
+            <p>There are four Vertues which are abſolutely re<g ref="char:EOLhyphen"/>quiſite in a Commander, Wiſdom, Valour, Expe<g ref="char:EOLhyphen"/>rience, and Fidelity.</p>
+            <p>Wiſdom in a General many times ends the War without War. Of all Victories the <hi>Romans</hi> thought that beſt, which was the leaſt ſtained with blood; and they were contented <hi>Camillus</hi> ſhould triumph when he had ſcarce fought at all. Wiſdom many times hath delivered a City when Weapons could not. <hi>Solomon</hi> tells us of a poor wiſe man that once did ſo, though no body con'd him thanks for his la<g ref="char:EOLhyphen"/>bour. Stratagems and Policies many times effect that which down-right blows will hardly compaſs. The Earl of <hi>Weſtmerland</hi> by a cunning trick of a Treat
+<pb n="4" facs="tcp:101121:7"/>in <hi>Henry</hi> the Fourth's time, entrapped <hi>Richard Scroop</hi> Archbiſhop of <hi>York,</hi> and <hi>Tho. Mowbray</hi> Earl Mar<g ref="char:EOLhyphen"/>ſhall, who had twenty thouſand men in the Field, which all the ſtrength they had could never have forc'd. And <hi>Aratus</hi> the <hi>Achaean</hi> General got more by his nightly ſurpriſes, and beating up of quarters, than ever he could obtain in the open field. <hi>Han<g ref="char:EOLhyphen"/>nibal</hi> won more by his wit than by his ſword. 'Twas that which ſtruck off <hi>Flaminius</hi> head, and trapan'd <hi>Scipio</hi> at the Battel of <hi>Trebia,</hi> and laid an ambuſh in the open field at the fatal Battel of <hi>Canna</hi> behinde the back of <hi>T. Varro.</hi>
+            </p>
+            <p>And as he muſt have Wiſdom to manage his affairs, and to lay hold of opportunity, ſo he muſt have Valour to execute his deſignes. Valiant he muſt be, or elſe he will grow contemptible, loſe his authori<g ref="char:EOLhyphen"/>ty, and by his own fears infect his Troops with cow<g ref="char:EOLhyphen"/>ardiſe. The noble <hi>Caeſar</hi> in all his Commands in the field, was never heard to ſay <hi>Ite Milites, ſed venite Commilitones, ignave te Caeſar, &amp;c.</hi> Not go, but come fellow Souldiers; follow me now, or bury me here; follow me now, or bury me there. As if he ſcorn'd in all his on-ſets, to be any thing elſe but ſtill a Leader. He alwayes taught by that which is the ſtrongeſt Authority, his own forwardneſs, and his own example.</p>
+            <p>Thus did the noble and renowned <hi>George Liſle</hi> at <hi>Newberry-Waſh</hi> ſtrip himſelf to his very ſhirt, and char<g ref="char:EOLhyphen"/>ged before his men to the mouth of the Cannon, when ſuſpected by his Souldiers to have Armour of proof upon him. Oh the bloud of that brave Man baſely ſhed in cold bloud. Who ſhall anſwer for it?</p>
+            <pb n="5" facs="tcp:101121:7"/>
+            <p>And though theſe be excelleut Vertues, yet without experience they are lame and imperfect. Let a Commander be never ſo learned, His Books (which he hath conſulted) cannot limit his deſigns to par<g ref="char:EOLhyphen"/>ticular, and caſual actions, which 'tis impoſſible his reading ſhould ever foreſee or acquaint him with. 'Tis experience and practice in War that muſt be the beſt Inſtructor: And though he may be perfect in a paper plot, where his eye hath all in view; yet he may fail in a Leaguer, where he ſees but a limb at once. Experience in War puts a credit upon a Commanders perſon, and actions; and every one will willingly venture with an experienced General, who with an untainted valour is grown old in Arms, and deaf almoſt in hearing the Drums beat, and the Trumpets ſound.</p>
+            <p>What an awe and veneration muſt needs be paid to a grave, aged, experienced Souldier whom death hath paſſed by ſo often, and ſhunn'd him, when it hath ſwept away all round about him. He ſeems to tell us, that he is one that the ſupreme God hath taken care of, and parricularly defended in the Hayl of death.</p>
+            <p>And now to all theſe, Wiſdom, Valour, Experi<g ref="char:EOLhyphen"/>ence, he muſt add Fidelity in the diſcharge of his Truſt: For though he be politick, valiant, and well experienced, yet if he be treacherous and falſe, that will blaſt all his other Vertues. How hath this treachery and falſhood layd an indelible blot upon many? How many examples have we of thoſe that have baſely betrayd their truſt, and in the end have been as baſely betrayd themſelves. Fidelity then
+<pb n="6" facs="tcp:101121:8"/>muſt crown all. <hi>Be faithful unto the death,</hi> is the Chriſtian Souldiers Motto. We muſt never here give over our ſpiritual warfare till death give us a writ of eaſe: there the wicked ſhall ceaſe from troubling, and there the weary ſhall be at reſt. And as that worthy General comforted himſelf, that though he was worſted by his enemies, yet he was not out<g ref="char:EOLhyphen"/>witted, or circumvented by them; nothing had been loſt for want of ſkill, or induſtry to ſave; and ſo 'twas rather his misfortune than his crime. So what a joy will it be to thy ſpirit, and a lightning to thine heart, when thou canſt ſay, that though thou haſt by the frailty of thy fleſh, and the violence of a temp<g ref="char:EOLhyphen"/>tation, been worſted by thy ſpiritual adverſaries, yet thou didſt not cowardly, or baſely quit the Field; though thou haſt been foyl'd, beaten, and overcome, yet thou never didſt yield up the Bucklers, thou wert faithful and ſincere towards God, thou never forſookſt thy love to his Cauſe: Though thou haſt been diſarmed, ſequeſtred, decimated, and unreward<g ref="char:EOLhyphen"/>ed for it.</p>
+            <p>When our ſouls gaſp for comfort, this will refreſh them, that they have been faithful. At the day of Judgment the ſentence will paſs not according to the greatneſs of Parts, Place, Riches, Honours, or the like, but according to our Fidelity; <hi>Well done,</hi> not great, or cunning, or valiant, or learned, or rich, but <hi>Well done good and faithful Servant, enter thou into thy Maſters joy.</hi> And here in my Text is the ſame Proclamation; <hi>Be faithful unto the death, and I will give thee a Crown of life.</hi>
+            </p>
+            <p>In the words we have but theſe parts to conſider.</p>
+            <pb n="7" facs="tcp:101121:8"/>
+            <list>
+               <item>Firſt, here is the word of Command; <hi>Be faithful.</hi>
+               </item>
+               <item>Secondly, Here is the ſtint and extent of our duty, <hi>unto death, Be faithful unto death</hi>—</item>
+               <item>Thirdly, Here is a promiſe of Reward, where we will conſider. 1. Our Pay-maſter, and that is Chriſt, <hi>I will give.</hi> 2<hi rend="sup">ly</hi>. The Pay it ſelf, and that is <hi>a Crown,</hi> with this addition, <hi>a Crown of life. Be faithful then, &amp;c.</hi>
+               </item>
+            </list>
+            <p>Firſt then I begin with the Word of Command, <hi>Be faithful.</hi> Fidelity is required of all Chriſtians. Faith in Chriſt muſt be ſeconded with faithfulneſs un<g ref="char:EOLhyphen"/>to Chriſt. As we muſt have faith in Him, ſo we muſt keep faith to Him. For thoſe are onely His true Soul<g ref="char:EOLhyphen"/>diers who are elect, called, and faithful: <hi>I have re<g ref="char:EOLhyphen"/>ceived mercy of God to be faithful,</hi> cries St. <hi>Paul.</hi>
+            </p>
+            <p>'Twas of Gods mercy to be kept faithful to the righteous Cauſe of God and the King, when there were ſo many temptations to withdraw us from our Loyalty. <hi>Be faithful:</hi>
+            </p>
+            <p>And the neceſſity of this will appear.</p>
+            <p>Firſt, From the terms of Relation that are be<g ref="char:EOLhyphen"/>twixt Chriſt and us.</p>
+            <p>Fidelity and Loyalty is in a more eſpecial manner required in a Subject towards his Soveraign, in a Souldier towards his Commander, in the Wife to<g ref="char:EOLhyphen"/>wards her Husband. 'Tis treaſon in a Subject to fight againſt his Soveraign; 'tis death for a Souldier to forſake his Colours; 'tis an unpardonable crime in a Woman to be unfaithful to her Husbands Bed.</p>
+            <p>But Chriſt is our Lord and Maſter. You call me Lord and Maſter, and you ſay well, for ſo I am, <hi>Matth.</hi> 23.8.</p>
+            <pb n="8" facs="tcp:101121:9"/>
+            <p>He is the Captain of our ſalvation, <hi>Heb.</hi> 2.10. He is our Husband, and every Chriſtian ſoul is His Spouſe, <hi>Hoſea.</hi> 2.19. <hi>I have eſpouſed thee unto me in much mercy and fidelity.</hi>
+            </p>
+            <p>And therefore 'tis all the reaſon in the world that we ſhould ſhew all loyalty and fidelity unto this our Prince, Captain, and Husband. Conſider-ſeriouſly with your ſelves theſe Relations, and then tell me what he deſerves that breaks faith with Him?</p>
+            <p>Secondly, The Faith that muſt ſave us muſt be a Faith unfained. What's a Souldier good for except he will fight? To take pay, and quarter, and plunder the Countrey, and when it comes to blows, whip, my Gentlemans gone: Such a perſon is onely fit to be ram'd into the mouth of a Cannon, and ſhot into a Field of Corn to affright the Crows. So Faith ſevered from Fidelity is no Faith but a meer fanſie; <hi>Fides enim ab eo dicitur, quia id fit quod dicitur;</hi> Faith without faithfulneſs is a falſe glavering coun<g ref="char:EOLhyphen"/>terfeit Faith; like Copper Coin, that hath the luſtre, but not the worth of gold: It is a faithleſs Faith, and a Truſt without truth. <hi>You truſt in a lie,</hi> ſaith the Prophet <hi>Jeremy</hi> 7.8. For a man to repeat all the Articles of his Chriſtian Faith, to profeſs with his mouth to believe the Reſurrection of his body, the General Judgment, and the Life everlaſting, and to live like a Devil, and ſwear like a Turk; and yet hope to goe to Heaven with a little of the Extream Unction, and a few <hi>Ave Maria's?</hi> Oh fooliſh people and unwiſe! this pretended faith without practice is no better than a Muſket charged only with powder,
+<pb n="9" facs="tcp:101121:9"/>which will give a great report, but doe no executi<g ref="char:EOLhyphen"/>on at all.</p>
+            <p>Men truſt in a Lye when they expect that God ſhould keep Covenant with them, when they have no care to keep promiſe with him.</p>
+            <p>
+               <hi>Rabſhekah's</hi> Argument againſt <hi>Hezekiah</hi> had been good, if his words of <hi>Hezekiah</hi> had been true, <hi>Eſai.</hi> 36.7. Little cauſe indeed could <hi>Hezekiah</hi> have to truſt in God whoſe Altars he had taken down, and whoſe places of Worſhip he had demoliſhed. How little Reaſon hath any man to hope that God ſhould ſave him when he dies, that hath no care to ſerve and pleaſe God whilſt he lives. Alas! when we ceaſe to keep Faith with God, we free him from the per<g ref="char:EOLhyphen"/>formance of His Promiſe to us. For, however it be true that the Apoſtle ſays, 2 <hi>Tim.</hi> 2.13. Though we prove unfaithful, yet God abides faithful, He cannot deny Himſelf. Man's diſtruſt, and incredulity can<g ref="char:EOLhyphen"/>not annul God's fidelity. 'Tis a deplorable Poſition that the <hi>Romaniſts</hi> hold, and cutteth aſunder the ſi<g ref="char:EOLhyphen"/>news of Humane Society, <hi>That Faith is not to be held with Hereticks.</hi> Better ſaid Heathen <hi>Tully, Etiam in<g ref="char:EOLhyphen"/>fideli recte ſervatur fides;</hi> even with the unfaithful, Faith is to be kept. Where Agreements between Party and Party are grounded on Conditions to be mutually performed on either ſide, he that in ſuch caſe breaketh firſt, doth thereby abſolutely free the other Party. Unfaithfulneſs therefore it is not in God to deny to make his Promiſe good unto thoſe that have no care to keep Covenant with Him.</p>
+            <p>
+               <hi>Fruſtra ſibi Fidem quis poſtulat ab eo ſervari, cui fidem à ſe praeſtitam ſervare recuſat.</hi>
+            </p>
+            <pb n="10" facs="tcp:101121:10"/>
+            <p>
+               <hi>They kept not Covenant with me, and I regarded not them, ſaith the Lord,</hi> Heb. 8.9.</p>
+            <p>Thirdly, There is nothing among Generous Men more odious than Falſhood, and Treachery in Friend<g ref="char:EOLhyphen"/>ſhip: To find them falſe to us whom we have truſt<g ref="char:EOLhyphen"/>ed: To be betray'd by thoſe that we thought our ſureſt friends; This cuts a man to the very heart. This made <hi>David</hi> complain, <hi>Pſal.</hi> 55.12. <hi>'Twas not an open enemy that didſt me this diſhonour, for then I could have born it; neither was it mine Adverſa<g ref="char:EOLhyphen"/>ry, that did magnifie himſelf againſt me, for then peradventure I would have hid my ſelf from him: But it was even thou my Companion, my Captain, and mine own familiar Friend.</hi> Surely it wounded deep the heart of the Great <hi>Buckingham</hi> when he was be<g ref="char:EOLhyphen"/>tray'd by his Servant <hi>Banniſter,</hi> whom he had raiſed to a great Eſtate; and it was a bitter ingredient which was put into the Cup of our late Martyr'd Sovereign, to have thoſe that eat of his bread, to lift up their hands againſt him: To ſee ſome of his own Domeſtick Servants whom he had fed, and advanced to ſit in that unjuſt Court to take away his Life.</p>
+            <p>So there is nothing that God takes more to heart, or can worſe endure, than diſloyalty, and breach of Covenants by thoſe which pretend to be in League with Him. To acknowledge (as we do all) <hi>that in Him we live and move, and have our being;</hi> To take our Oaths of Allegiance, and Supremacie to Him, that we will ſerve Him faithfully, and fight againſt
+<pb n="11" facs="tcp:101121:10"/>the Devil, the World, and the Fleſh, and continue His faithful Souldiers unto our Lives end; and yet notwithſtanding break all theſe Obligations, and ne<g ref="char:EOLhyphen"/>ver regard the performance of our Vows, but baſe<g ref="char:EOLhyphen"/>ly betray our Truſt, and ſerve his enemies. How can God endure this at our hands? Will he not judge for theſe things, and ſhall not his Soul be avenged on ſuch perfidious wretches as we? See how God complains of this, <hi>Jer.</hi> 3.20. <hi>Surely as a wife trea<g ref="char:EOLhyphen"/>cherouſly departeth from her husband, ſo have ye dealt treacherouſly with me, ſaith the Lord.</hi> Jer. 5.23. <hi>This people have a revolting, and rebellious heart, they are revolted, and gone, they have dealt very Treache<g ref="char:EOLhyphen"/>rouſly againſt me, ſaith the Lord: Woe unto them, they have rewarded evil unto to their own Souls.</hi>
+            </p>
+            <p>Here we may learn how to try the ſincerity, and ſoundneſs of our faith; If our Faith, and Confidence in Chriſt, be accompanied with Fidelity and Faith<g ref="char:EOLhyphen"/>fulneſs unto Chriſt; if we be careful as well to ob<g ref="char:EOLhyphen"/>ſerve what He requireth of us, as to expect what He promiſeth to us, then we may be aſſured that our Faith is right. The <hi>Romans</hi> are extolled by St. <hi>Paul,</hi> that their Faith was ſpoken of throughout the whole world; and yet more than once they are com<g ref="char:EOLhyphen"/>mended for their Obedience. Faithful Obedience that's the ſureſt note of ſound Faith: Neither can it be true where that is wanting: Then may we know our Faith to be ſound, when our Faith in Chriſt produceth in us a faithfulneſs unto Chriſt, a care<g ref="char:EOLhyphen"/>fulneſs to pleaſe Him, a willingneſs to obey Him, and to be guided by Him. Then doth the Souldier ſhew
+<pb n="12" facs="tcp:101121:11"/>his Loyalty and Fidelity, when he doth not only liſt himſelf in ſervice, take Pay, Quarter, and the like, but when he obeys his Captains Commands, if to ſtorm a Town, if to charge up to the mouth of the Cannon.</p>
+            <p>But alas! How many will be found to have no true Faith, if they be brought to this Touchſtone: Every one is ready to ſay with him in the Goſpel, <hi>Lord, I believe:</hi> But all men have not Faith that make Profeſſion of Faith. Here many profeſs the Faith of Chriſt, that are wholly eſtranged from the Life of Chriſt? They profeſs much, but practice nothing; juſt like a treacherous Souldier, that takes pay of one ſide and runs to the other; that pretends to fight for you, but when it comes to the puſh, ei<g ref="char:EOLhyphen"/>ther fights againſt you, or runs away, and dares not fight at all; but hides himſelf under ſome hedge, or in ſome ditch or other. Alas! this is a falſe coun<g ref="char:EOLhyphen"/>terfeit faith, and makes at the beſt but a counterfeit Chriſtian.</p>
+            <p>But beloved, if we deſire to be accounted what we are called, Let us approve the ſincerity of our Faith in Chriſt, by our fidelity and faithfulneſs unto Chriſt: If we look He ſhould keep Covenant with us, let us be ſure to keep Covenant with him, <hi>Pſal.</hi> 25.10. <hi>All the ways of the Lord are mercy and Truth to ſuch as keep his Covenants, and his Teſti<g ref="char:EOLhyphen"/>monies:</hi> So <hi>Pſal.</hi> 103.18. <hi>The mercy of God is for ever, and ever upon thoſe that keep his Covenants, and think upon his Commandments to do them.</hi>
+            </p>
+            <pb n="13" facs="tcp:101121:11"/>
+            <p>Conſider how unequal it is to expect he ſhould perform to us, when we no ways perform with Him? How unreaſonable were it for a wife to require main<g ref="char:EOLhyphen"/>tenance from her husband, when ſhe liveth diſloy<g ref="char:EOLhyphen"/>ly, and keepeth company with another man? For a Souldier to expect his Pay, when he refuſeth to fight, or to obey his Commanders pleaſures? Nor hath any perſon any reaſon in the world to expect ſalvation from Chriſt, who hath no care to keep Faith with Chriſt.</p>
+            <p>That's the firſt, we muſt be Faithful.</p>
+            <p>But how long muſt this laſt? A day or two, or ſo? Oh no! This Command is like that heavy ſay<g ref="char:EOLhyphen"/>ing in Matrimony, <hi>Till death us depart.</hi> So long as life laſteth, we muſt be faithful. Fight it out to the laſt drop of blood in our veins; like that famous <hi>Athenian</hi> Captain <hi>Cynoegirus,</hi> who held a flying <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> ſhip with his right hand, till that was cut off, and then with his left, till that was chop'd off; and laſt<g ref="char:EOLhyphen"/>ly with his teeth, till his head was cut off. So muſt we never give off till death.</p>
+            <p>Chriſtian Fidelity muſt continue to the laſt. <hi>Pſal.</hi> 119.112. <hi>I applied mine heart to fulfil thy Satutes always, even to the end.</hi> So <hi>Heb.</hi> 3.6. <hi>His houſe we are, if we hold faſt the profeſſion of our Faith unto the end: Knowing that he is faithful that hath pro<g ref="char:EOLhyphen"/>miſed.</hi>
+            </p>
+            <p>For not to perſevere is a maimed ſervice, ſuch as God will not accept of. To ſight a little and then
+<pb n="14" facs="tcp:101121:12"/>give over, throw down our Arms, and run away, is baſe, and cowardly: That which was offered to God muſt have horn and hoof; Nay, it was not to want the very tayl, <hi>Levitic.</hi> 3.9. It being thereby inti<g ref="char:EOLhyphen"/>mated, that no holy courſe of life is accepted, if it be not concluded and cloſed up with a good end. He was never a true Friend, that ceaſeth to be a friend; nor was he ever truly Loyal to God, and his King, that ever leaves, or gives over his Loyal<g ref="char:EOLhyphen"/>ty to them.</p>
+            <p>It is a Rule in the Civil Law, that it is as nothing, that holdeth not; and nothing is held done, as long as ought remains to be done. A Will unfiniſhed, is no Will; a Deed unleſs it be ſigned, ſealed, and delivered, is no Deed. The end of each thing is all in all: <hi>Mark the perfect man, and behold the upright, the end of that man is peace: And I ſaw the end of thoſe men,</hi> ſaith <hi>David. Pſal.</hi> 37.37. that was ſatis<g ref="char:EOLhyphen"/>faction to him.</p>
+            <p>Every thing, we ſay, is well that endeth well. And indeed the main end, and aim of our whole life ſhould be, how to make a good end of our life, that we may at the laſt be found holy, and unblameable be<g ref="char:EOLhyphen"/>fore Him in peace.</p>
+            <p>God Himſelf is Eternal from whom we expect our Reward, and this Reward we look for, is its ſelf alſo Eternal. But what hath levity and inconſtancie to do with Eternity: Our fidelity muſt therefore hold out to the laſt, if we expect an everlaſting Re<g ref="char:EOLhyphen"/>ward:
+<pb n="15" facs="tcp:101121:12"/>And moſt equall it is, that we continue to the end, who expect thoſe joys, that muſt laſt world without end.</p>
+            <p>Laſtly, It is perſeverance alone that carries away the Crown; <hi>Finis, non pugna coronat:</hi> 'Tis the end that Crowns the action. We muſt be faithful to the death, or elſe there is no Crown of life for us. He that perſevereth to the end, the ſame ſhall be ſaved; and he that doth not loſeth all that he hath done: The former part of our life yieldeth to the latter, and the latter part of our life carrieth it away from the former. <hi>If the wicked man return from his wic<g ref="char:EOLhyphen"/>ked courſes, and do that which is lawful, and right, all his former wickedneſs which be hath committed ſhall be remembred no more.</hi> So, <hi>when the righteous turneth away from his righteouſneſs and committeth iniquity, all the righteouſneſs that he hath done ſhall not be mentioned, in his treſpaſs that he hath treſ<g ref="char:EOLhyphen"/>paſſed, and in his ſin that he hath ſinned, in them he ſhall die,</hi> Ezek. 18. <hi>Be faithful then unto the death.</hi>
+            </p>
+            <p>Be admoniſhed to hold faſt that we have, that no body take our Crown, to cleave to God, with full purpoſe of heart, to uſe all diligence to keep firm the aſſurance of our hope unto the end; for it were better for us never to have entred into Covenant with God, than to make Covenants with Him, and not to keep them. Let us take heed left being drawn away by the errour of the wicked, we fall from our ſtedfaſtneſs, and faithfulneſs to our Lord Jeſus: But ſay with the Kingly Prophet, <hi>Pſal.</hi> 119.106.
+<pb n="16" facs="tcp:101121:13"/>
+               <hi>I have ſworn, and I will perform it, that I will keep thy righteous judgments.</hi>
+            </p>
+            <p>And becauſe it is to little purpoſe to be informed how dangerous our unfaithfulneſs will be, unleſs we be taught how to prevent the danger;</p>
+            <p>Give me leave to add three or four Rules of Di<g ref="char:EOLhyphen"/>rection, which may help us to perſevere in Chriſt, and in thoſe Religious courſes which we have, or yet ſhall enter, and I will come to your Pay-Maſter, and your Pay immediately.</p>
+            <p>Firſt then, Brave Souldiers, would you continue faithful to Chriſt your Maſter, and hold out in a Re<g ref="char:EOLhyphen"/>ligious courſe unto the end: Enter with Reſoluti<g ref="char:EOLhyphen"/>on. A good Reſolution is the moſt fortifying Armour that a Souldier can wear; 'tis no great matter for Back or Breſt, or Head-piece, or Gauntlet, Reſolution is the only Armour of proof: 'Tis the only Marſhal that can keep our wavering minds in order: That which makes men Cowards is want of Reſolution, when I know my Cauſe to be good, and juſt, what ſhould affright me from the vindication of it.</p>
+            <p>'Twas an ingenuous, and reſolved Anſwer which the Noble and Loyal Marqueſs of <hi>Worceſter</hi> return<g ref="char:EOLhyphen"/>ed to the General of the contrary Party, when he had loſt <hi>Ragland,</hi> and in it the richeſt <hi>Cargo</hi> that e<g ref="char:EOLhyphen"/>ver fraighted a Noble houſe: His Petition was on<g ref="char:EOLhyphen"/>ly for two tame Pigeons which uſed to ſit upon his ſhoulder, and to peck meat out of his hand, that the General would give him a Protection for them; for
+<pb n="17" facs="tcp:101121:13"/>he was afraid, when his back was turned, his Souldi<g ref="char:EOLhyphen"/>ers would ſhoot them: This was readily aſſented to; and withal, the General told the Marqueſs, that he was glad to ſee his Lordſhip ſo merry. I thank you, ſaith the Marqueſs, you have given me no o<g ref="char:EOLhyphen"/>ther cauſe; and before you are gone, give me leave to tell you this Story: Upon a time two Fellons went to <hi>Tyburn</hi> to be executed, the one was very penſive and ſad, the other was as jocular and mer<g ref="char:EOLhyphen"/>ry: The merry Thief gave great offence to his diſ<g ref="char:EOLhyphen"/>conſolate Companion, inſomuch that he check'd him, and told him, Ah, ſaith he, how canſt thou be thus merry and frolick conſidering the buſineſs that we are going about? Oh, ſaith he, Thou art a ſil<g ref="char:EOLhyphen"/>ly whining Fellow, thou went'ſt a Thieving and Roguing, and never thought'ſt what would come on't; but when I firſt took up the Trade, I forecaſted the worſt, ſo that nothing falls unex<g ref="char:EOLhyphen"/>pected upon me, 'twas no more than I lookt for, So my Lord (ſaid the Noble Marqueſs) when I firſt took up Arms for the King, I was reſolved to endure the utmoſt that you could inflict upon me, and that makes me ſo merry, and chearful as I am. What ſaith our Saviour, <hi>
+                  <g ref="char:V">Ʋ</g>nleſs a man</hi> (in Reſolution at leaſt) <hi>For<g ref="char:EOLhyphen"/>ſake Father and Mother, Wife, and Children, and his own life too, he cannot be my Diſciple.</hi>
+            </p>
+            <p>The want of this Reſolution makes many a one turn head, and ſail back again, as ſoon as they ſee ſtorms, and oppoſitions begin to riſe. Theſe men were never minded to go farther than they ſaw the way clear before them; like thoſe that go to Sea upon pleaſure, who no ſooner find the Sea to begin to
+<pb n="18" facs="tcp:101121:14"/>work, and themſelves grow ſick, but they preſent<g ref="char:EOLhyphen"/>ly cry out to make haſt to the ſhore: whereas the Merchant that is bound for his Port, concerns not himſelf at all; ('tis no more than he expected) he will not be driven back with a little foul weather, or Sea-ſickneſs, but goes on through fair and foul, un<g ref="char:EOLhyphen"/>til he hath made his Voyage, and arrived at the Ha<g ref="char:EOLhyphen"/>ven where he would be. What did three or four Reſolute men do but the other day, for a Kingly Crown of Gold? (And had like to have carried it too, if they had not been providentially diſap<g ref="char:EOLhyphen"/>pointed.) And ſhall we do nothing for this Imperi<g ref="char:EOLhyphen"/>al Crown of life? Shall they be more reſolute to pilfer, than we honeſtly to gain? Oh! Lord Je<g ref="char:EOLhyphen"/>ſus, thou haſt a Crown in thy right hand, and the Motto of that Crown is, <hi>To him that overcomes:</hi> Shall my baſe luſts conquer me, and my vile cor<g ref="char:EOLhyphen"/>ruptions enſlave me ſo far, that I dare venture no<g ref="char:EOLhyphen"/>thing for thy ſake? or my Religion, or the intereſt of my immortal Soul? Shall I be valiant to do e<g ref="char:EOLhyphen"/>vil? Reſolute in mine own Revenges? Perempto<g ref="char:EOLhyphen"/>ry to damn my ſelf? And ſhall I be a Coward in vertuous actions, not dare to ſpeak againſt vice, nor to fight one ſtroke againſt thine, and my mortal e<g ref="char:EOLhyphen"/>nemies?</p>
+            <p>Oh! Far be that from a Noble mind, Let me Re<g ref="char:EOLhyphen"/>ſolve to have but ſo much courage as poor <hi>Ruth</hi> had, when her Mother-in-law beſeech'd her to leave her afflicted Company. <hi>Entreat me not</hi> (ſaid ſhe) <hi>to leave thee, or returning from following after thee, for where thou goeſt there will I go, where thou lieſt there
+<pb n="19" facs="tcp:101121:14"/>will I lie, where thou dieſt there will I die, and there will I be buried: God do ſo to me, and more alſo, if ought but death part thee and me.</hi> So let us be Reſolved, come what will come, never to for<g ref="char:EOLhyphen"/>ſake our God, or our Religion; Let us Reſolve though he kill us, and ſtarve us, never to leave him or forſake him.</p>
+            <p>That's the Firſt, Enter with Reſolution.</p>
+            <p>Secondly, Be careful to keep a good Conſcience both toward God, and all men. Let the fear of God be freſh in thy Soul; holding faith and a good Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Sin will make a man an errant Coward; if not, it will bring a curſe upon his Courage: God hath curſed the wayes of ſin, and is reſolved no man ſhall proſper in the end that lives, and wallows in it. Many a good Cauſe hath ſuffered for the wic<g ref="char:EOLhyphen"/>kedneſs of them that have managed it. 'Tis not Damning and Sinking, Whoring or Drinking, that will at laſt win the day: Hypocriſie will be bet<g ref="char:EOLhyphen"/>ter rewarded in this world than open propha<g ref="char:EOLhyphen"/>neſs: Have a care then to keep cloſe with God to fear his Name alwayes, that it may go well with thee, and that thy Soul may live.</p>
+            <p>There are two things wherein a Conſcientious Chriſtian excells all other men in the world:</p>
+            <p>And,</p>
+            <p>Thoſe are in true Valour, and Fidelity.</p>
+            <pb n="20" facs="tcp:101121:15"/>
+            <p>True Valour, I ſay, in a juſt Cauſe, for in a wicked one there is none more timerous than he: And indeed to ſhew courage in a bad matter is ra<g ref="char:EOLhyphen"/>ther a token of deſperate folly, than any badge of a magnanimous mind. But in a juſt Cauſe he is as bold as a Lion; no thing can daunt his cou<g ref="char:EOLhyphen"/>rage.</p>
+            <p>Not Infamy. For in this the Chriſtian knows he ſhares with his Maſter; and while it is for his Names-ſake, he knows he is bleſſed. If there be any Nectar in this life, 'tis in ſorrows we endure for goodneſs: And bleſſed be God, this Cup of Ne<g ref="char:EOLhyphen"/>ctar we drink for our draughts every morning. Oh! that God we fight for is able enough to vindicate all our wrongs.</p>
+            <p>Not Afflictions. They ſhall not daunt the Courage of the Conſcientious man; he knows they are but for a time, tranſient, and momentary. Neither ſhall the <hi>Iſraelites</hi> live always under the Tyranny of <hi>Pharaoh,</hi> or the Travels of the Wilderneſs: he very well knows, the more abundant in ſorrows here, the more abundant in joys hereafter; his tears ſhall return in ſmiles, his weepings in ſtreams of pleaſure.</p>
+            <p>Nor Death it ſelf ſhall quail his Courage. For he knows that will be his happieſt day, and his bridge from woe to Glory. This was the Courage that bore up the heads of the Apoſtles, and Martyrs; this was it that kept the poor Royalliſts from ſink<g ref="char:EOLhyphen"/>ing;
+<pb n="21" facs="tcp:101121:15"/>they believed above hope, that there would come a day wherein the right of Cauſes would be cleared up, and God ſhould judge and plead for his people: This made them ſay with St. <hi>Paul, I am not only willing to be bound, but to die for the Name of the Lord Jeſus:</hi> This made them leap for joy, that they were ſo near their home; dying often, like <hi>Sampſon,</hi> among their Enemies; more Victory at<g ref="char:EOLhyphen"/>tending their end than their proceedings.</p>
+            <p>And as the Courage of the Conſcientious man is great and exemplary, ſo his Fidelity is remarkable: True Loyal Chriſtianity knits more ſure, and more indiſſoluble than any other relation in the world. It ties a knot that <hi>Alexander</hi> cannot cut in ſunder; How hath the Fidelity of the Primitive Chriſtians, and the Loyal Party been admired? who have cho<g ref="char:EOLhyphen"/>ſen to embrace the flames, and die in ſilence, rather than to reveal their Companions and Fellow-parta<g ref="char:EOLhyphen"/>kers in the ſame Cauſe. Tyrants will ſooner want in<g ref="char:EOLhyphen"/>vention for Tortures, than they with Tortures be made Treacherous. The League which Heaven hath made, Hell wants power to break; Oh! invalua<g ref="char:EOLhyphen"/>ble Fidelity! Here, in this one Conſcientious man is met Courage, and Conſtancie; the one to withſtand an enemy; another to entertain a Friend: Give me any Foe rather than a Reſolved Chriſti<g ref="char:EOLhyphen"/>an: Labour then to keep a good Conſcience, and this will make thee both Valorous and Faith<g ref="char:EOLhyphen"/>ful.</p>
+            <pb n="22" facs="tcp:101121:16"/>
+            <p>I'll mention no more but this: Conſider the Mo<g ref="char:EOLhyphen"/>tive in my Text; The ſhort time that this labori<g ref="char:EOLhyphen"/>ous courſe is required of us; 'tis but till death: The continuance of this fight is ſhort. The Military age among the <hi>Romans</hi> was from 17 to 46, or in dan<g ref="char:EOLhyphen"/>gerous times, till fifty. The dayes of our age are threeſcore years and ten, and in all this time there is no truce from War. The Chriſtian can never ſhut up the Temple of <hi>Janus. Legionum filii nati,</hi> we are all born in the field, and ſworn Souldiers in our ſwadling-Clouts, bearing Arms againſt our common Enemy, from our Baptiſm to our Burial, and there<g ref="char:EOLhyphen"/>fore we muſt put on the Reſolution of valiant men; <hi>aut ſors, aut mors,</hi> either Death, or Victory; Victory ſhall begin my joy, or Death ſhall end my miſery; ſo a Chriſtian muſt ſay,
+<q>Aut cito mors veniet, aut victoria laeta.</q> Either God will end our danger, or our dayes: 'tis but a little time we have to fight, 'tis but a point or leſs, and that imployment cannot be long, that muſt end with it; for what can be long in that, which is not long in its ſelf? 'Tis but till Death; and that is a note of ſtint as well as of extent: Not that our fidelity unto Chriſt ſhall not laſt longer, but becauſe that after death there will be no danger of diſloyalty: All provocations, and temptations to the contrary being then utterly aboliſhed; 'tis but a ſpurt, and who would not for a ſhort brunt en<g ref="char:EOLhyphen"/>dure any hardſhip to live at hearts eaſe for ever af<g ref="char:EOLhyphen"/>ter? Who would not ſerve even an hard, and un<g ref="char:EOLhyphen"/>kind Maſter, with all Fidelity, and diligence for a day or two, that hereafter might be a Free-man, and
+<pb n="23" facs="tcp:101121:16"/>an happy one for ever? It is not long, and it is but light in reſpect of what is promiſed to us; for this light hardſhip which is but for a moment, ſhall work for us a far more exceeding, and eternal weight of Glory.</p>
+            <p>
+               <hi>Be faithful then unto the death,</hi> &amp;c. Which brings me now to your Pay-maſter, and your Pay. Your Pay-maſter is Chriſt, and I hope you will not diſtruſt him; your pay is a Crown of life, and I hope you will not grumble at that. What if you have been de<g ref="char:EOLhyphen"/>frauded here? Perhaps your Arrears were ſo great, that the whole State was not able to pay them; or perhaps, that little which was aſſigned you, fell into the hands of them, who did deceive you.</p>
+            <p>But here's a Pay-maſter that is rightly qualified to give every one content. Conſider, the <hi>Ability,</hi> the <hi>Fidelity,</hi> the <hi>Liberality</hi> of this great Pay-ma<g ref="char:EOLhyphen"/>ſter.</p>
+            <div type="part"><!-- @N removed: "ability" -->
+               <head>Ability.</head>
+               <p>I will give that have Power to give, that have Ability, and Authority ſo to do. The Devil told our Saviour he <hi>would give all the Kingdoms of the world, and the glory of them with it;</hi> but he had no power to make good what he ſaid: But he that ſpeaketh here is able to perform what he promiſeth. <hi>All power is given to me in Heaven, and in Earth:</hi> And, <hi>to him that overcomes will I give to ſit in my Throne.</hi>
+               </p>
+            </div>
+            <div type="part"><!-- @N removed: "fidelity" -->
+               <pb n="24" facs="tcp:101121:17"/>
+               <head>Fidelity.</head>
+               <p>Again, <hi>I will give, who am Amen, the Faithful, and True witneſs:</hi> He that is Faithful to me, ſhall find me Faithful to him: I'll never promiſe that, which I will not perform: 'Tis at this Pay-maſter's hands, that the Indigent Officer and Loyal Soul<g ref="char:EOLhyphen"/>dier muſt expect his Arrears: This is the Cavaliers Pay-maſter; he will not deceive them of that is their juſt due: They have had but little for their ſuffer<g ref="char:EOLhyphen"/>ings here: But, <hi>I will give,</hi> ſaith Chriſt: I'll be faithful to you, that have been faithful to God, and your King; though you are not rewarded here, you ſhall be crown'd hereafter; though you ſtarve here, you ſhall one day be invited to the Marriage-Supper of the Lamb, and drink your fill of thoſe Rivers of pleaſures, which are at his right hand for evermore. Live then the nobleſt lives of Chriſtians; live ſober<g ref="char:EOLhyphen"/>ly, righteouſly, and godly in this preſent world, hold faſt the profeſſion of your Religion, and Loyalty till the end. For, remember he is faithful that hath promiſed; he is not like <hi>Antigonus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, who ſaid he would give, but never did. But your Pay-ma<g ref="char:EOLhyphen"/>ſter will not deceive you, he will give, and he hath given to a thouſand of our dead Friends; and we tread but in the ſteps of thoſe that already have in<g ref="char:EOLhyphen"/>herited the promiſes.</p>
+            </div>
+            <div type="part"><!-- @N removed: "liberality" -->
+               <head>Liberality.</head>
+               <p>And not like a niggard, a little ſnip, or ſo, he will not put you off with a moneths pay for ſix, nor ſcotch you off with half your wages; No, he will
+<pb n="25" facs="tcp:101121:17"/>give liberally, and bountifully: Though he oweth us not ſo much as thanks, yet he will not for his Ho<g ref="char:EOLhyphen"/>nour ſake, ſuffer Loyalty, unparrall'd Loyalty, and renowned Fidelity, to beg in the ſtreets, and cry with that famous Captain, <hi>Da obulum Bellizario:</hi> he will not ſuffer Families to be undone, and their blood to be ſpilt unrewarded for his ſake. No, he will coun<g ref="char:EOLhyphen"/>tenance, and cheriſh ſuch Loyal Souls, he will pre<g ref="char:EOLhyphen"/>fer them to be near himſelf; he will at thy entring into Heaven, bring forth the beſt Robe and put it on thee, a Ring on thy finger, and a Crown on thine Head, and thou ſhalt be array'd in Purple, and fine Linen. Thou ſhalt be brought to the Tribunal of Chriſt by the hands of thy late Martyr'd Sovereign, (for whom thou haſt ſuffered) and He in the head of all the murdered Royalliſts, Renowned <hi>Mon<g ref="char:EOLhyphen"/>troſs,</hi> and Heroick <hi>Capel,</hi> Valiant <hi>Lucas,</hi> and Fighting <hi>Liſle,</hi> Reverend <hi>Hewet,</hi> and Honeſt <hi>Vowel,</hi> Hardy <hi>Slingsby,</hi> and Thee Sweet <hi>Andrews,</hi> Faithful <hi>Penrudduck,</hi> and Loyal <hi>Grove,</hi> theſe ſhall conduct thee to the Tribunal of the Lord Jeſus: and it ſhall there be proclaimed before all the Saints, This is he that was faithful to the death, that durſt be good, when others were baſe, that did own the righteous Cauſe of God, and his Anointed, when others were Neuters, Rebels, Cowards, or Apoſtates; this is he that ſtood firm and unſhaken when others proved falſe, and treacherous; Come, put the Crown up<g ref="char:EOLhyphen"/>on his Head, he hath been Faithful to the death, and he ſhall now receive a Crown of Life.</p>
+               <p>Which brings me, Fellow Souldiers, to your Pay, which I'll diſpatch immediately, for
+<pb n="26" facs="tcp:101121:18"/>you ſhall have it all in Crown pieces.</p>
+            </div>
+            <div type="part"><!-- @N removed: "pay" -->
+               <head>A Crown of Life: <hi>That's your Pay.</hi>
+               </head>
+               <p>The words are Emphatical, ſp'ritful, lively words, able to put metal into a Coward: Life is the beſt of all Natural things; And a Crown is the beſt of all Civill things: Here is the beſt, and the beſt. 'Tis true, a good man hath his Crown here; St. <hi>Paul</hi> had one, but it was an Apoſtolical one: He tells the <hi>Philippians, You are my joy, and my Crown.</hi>
+               </p>
+               <p>Every good Chriſtian hath a Crown here; a good Conſcience is a continual Feaſt, that ſame is a Crown; This was it that <hi>Job</hi> bound about the Temple of his head, <hi>Job</hi> 27.6. <hi>My righteouſneſs I hold faſt, and will not let it go, my heart ſhall not reproach me ſo long as I live.</hi> Oh bleſſed Crown! poor ſuffering Royal<g ref="char:EOLhyphen"/>liſt, cannot you live upon this a while?</p>
+               <p>Nay, every believer hath his Crown here; his Faith, and Profeſſion is his Crown, <hi>Rev.</hi> 3. <hi>Hold faſt that thou haſt, that no body take thy Crown.</hi>
+               </p>
+               <p>And here every Faithful Souldier ſhall have a Crown: Crowns were the Rewards of Conquer<g ref="char:EOLhyphen"/>ors; Cups, Garments, and Crowns were the rewards of ſuch as won the prize at the <hi>Olympick</hi> Games: But yet ſo poor they were, that if a Horſe did but run a Race, and won, he had a Crown, or a Cup given him; and therefore the Poet <hi>Theocritus</hi> could ſay, <hi>See what poor things the world glories in:</hi> the Conquerors are Crown'd, and ſo are their Horſes: But this Crown is not compoſed of withering flow<g ref="char:EOLhyphen"/>ers;
+<pb n="27" facs="tcp:101121:18"/>'tis not a Crown of Ivy, or Oke, of Graſs, or Laurel, of Gold, or Stars, but a Crown of unfading, unperiſhing Glory, a Crown of Life, a Crown that never fades.</p>
+               <p>This is the true Noble Honour. Here Honour is but a ſhadow, fading glory, like the crackling of Thorns under a Pot, like the Triumphs of the <hi>Cae<g ref="char:EOLhyphen"/>ſars,</hi> ſplendid indeed, but quickly over, and forgot<g ref="char:EOLhyphen"/>ten: But with thee, O Lord, there is ſubſtantial, ſolid, eſſential Glory; a maſſie, ponderous, ſubſtan<g ref="char:EOLhyphen"/>tial Crown; 'tis an exceeding eternal weight of Glory, which no ruſt ſhall corrupt, and which no Thieves ſhall ever bereave us of.</p>
+               <p>
+                  <hi>A Crown of Life,</hi> 'Tis <hi>Honor maximus,</hi> the greateſt Honour; there is nothing higher in the eſtimation, or admiration of men: Then a Crown, it is the Appendant of Majeſty; Kings are Supream: Excel<g ref="char:EOLhyphen"/>lent Majeſty was added to King <hi>Nebuchadnezzar,</hi> all Nations and Tongues are ſaid to have acknowledg<g ref="char:EOLhyphen"/>ed him their Superiour, and Sovereign Lord; yet all this Honour and Glory of the world is but dark, and powerleſs in reſpect of the Crowns of Heaven. There is no Crown but hath its Croſs, thorns there are, cares and troubles that grieve the bearer of it: But this ſhall never cumber, or moleſt thee; here is that, which will recompence all our labours and ſuf<g ref="char:EOLhyphen"/>ferings for the righteous Cauſe of God, and the King; A Crown of Life: Rouſe up then, Valiant Souldiers, Remember you fight not for the Parlia<g ref="char:EOLhyphen"/>ment half Crowns, nor for Crowns of Gold, but
+<pb n="28" facs="tcp:101121:19"/>for a Crown of Life, which will never be ſpent:</p>
+               <p>
+                  <hi>The afflictions of this preſent life are not worthy to be compared to the Glory that ſhall be revealed in us.</hi> What are our expences to the receiving? 'Tis the expence but of a little ſuffering, for the receiving of an immortal Crown of life. How much will wic<g ref="char:EOLhyphen"/>ed men ſuffer to enjoy their luſts? And ſhall we do nothing for this incorruptible Crown of Glory? <hi>De<g ref="char:EOLhyphen"/>moſthenes</hi> quickned up himſelf to his Studies by the example of a poor Blackſmith; what a ſhame is it for me to lie in my bed, and the Blackſmith to be at his work, he that is to make but a few Horſe<g ref="char:EOLhyphen"/>ſhooes and nayls, and I that am to make an Oration to all the Wits of <hi>Greece</hi> and <hi>Aſia.</hi>
+               </p>
+               <p>So do you ſay, what a ſhame is it for me to ſee men compaſs Sea and Land to get a little muck in the world, to weary, and beat their brains, and ex<g ref="char:EOLhyphen"/>pend all they have, to give ſatisfaction to their luſts; and ſhall I be lazie, and idle, ſlothful, and negligent, and do nothing for the ſecurity of my Soul, and to<g ref="char:EOLhyphen"/>wards the attaining of everlaſting happineſs? I am a a Chriſtian, and believe I have an immortal Soul, ſhall wicked men do ſo much to fulfil the pleaſures of ſin; and ſhall not I endure a little hardſhip for this immortal Crown of life? Oh! Then Courage, Brave Souldiers, let us fight on, and preſs forward towards the mark for the prize of our high Calling; let us hold out courageouſly, and valiantly againſt all our ſpiritual Enemies, that we may live one day before we die, to ſing that Triumphant Song, <hi>Oh my Soul, thou haſt trodden down ſtrength.</hi>
+               </p>
+               <pb n="29" facs="tcp:101121:19"/>
+               <p>Let me diſmiſs you with thoſe Spiriting words of <hi>Seneca</hi> in his <hi>Chorus</hi> to <hi>Hercules Oetaeus.</hi>
+               </p>
+               <q>
+                  <l>Nunquam Stygias fertur ad umbras</l>
+                  <l>Inclyta virtus, vivite fortes;</l>
+                  <l>Nec Lethaeos, ſaeva per Amnes</l>
+                  <l>Vos fata trahent: ſed cum ſummas</l>
+                  <l>Exiget horas, conſumpta dies,</l>
+                  <l>Iter ad ſuperos gloria pandet.</l>
+               </q>
+               <p>True, Noble, Heroick, Renowned, Faithful Vir<g ref="char:EOLhyphen"/>tue is never brought to the <hi>Stygian</hi> Lakes. Live, Live, Oh ye valint Men, neither ſhall the cruel Fates ever waft you through the <hi>Lethaean</hi> ſtreams, thoſe Rivers of forgetfulneſs: But when the conſumed day ſhall cut off your lateſt hours, when death ſhall beat a Retreat to your ſtiff Limbs. Glory, immortal Glory ſhall open you a way unto the Gods.</p>
+               <p>Be faithful then, to God, to your Religion, to the intereſt of your immortal Souls; Be faithful to your King, to your Countrey, and to one another; love each other, ſpeak well of one another, and pro<g ref="char:EOLhyphen"/>mote each others intereſt. Reſiſt unto blood, ſtri<g ref="char:EOLhyphen"/>ving againſt ſin. <hi>Be faithful unto the death, and I will give thee a Crown of Life.</hi>
+               </p>
+               <closer>Which the Almighty grant, <hi>&amp;c.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
